@@ -1,0 +1,1 @@
+Instalar o Xampp ou WampServer, criar a base de dados com o nome: dados, e importar o arquivo dados.sql
